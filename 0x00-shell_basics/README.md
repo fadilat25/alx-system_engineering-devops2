@@ -1,2 +1,3 @@
 prints the absolute path name of the current working directory
 1-Displays list of contents in current directory
+2- A script that changes working directory to a users home directory
