@@ -1,3 +1,2 @@
-#!/bin/bash
-ls-Rad */|wc -w
-ls-Rad */|wc -l
+#!bin/bash
+ls -Rad */|wc -l
